@@ -1,7 +1,6 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
-An example node.js project, including tests with mocha, that behaves like
-a pocket calculator.
+An example node.js project, including tests with mocha, that behaves likea pocket calculator.
 
 [![Build Status](https://dev.azure.com/eliemersonrego/Exame%20AZ400/_apis/build/status/Eliemerson.calculator?branchName=master)](https://dev.azure.com/eliemersonrego/Exame%20AZ400/_build/latest?definitionId=3&branchName=master)
 
